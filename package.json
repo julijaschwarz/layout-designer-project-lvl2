@@ -9,7 +9,9 @@
   },
   "devDependencies": {
     "stylelint-config-standard": "^18.3.0",
-    "trim": "^1.0.1"
+    "trim": "^1.0.1",
+    "yargs-parser": ">=13.1.2",
+    "postcss": ">=8.2.10"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
